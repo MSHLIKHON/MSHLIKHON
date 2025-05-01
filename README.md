@@ -1,8 +1,6 @@
-https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/487481886_4052490935019529_8680986197305389616_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WY9Hfoil0EYQ7kNvwGJooqU&_nc_oc=Adm-o8Cs_AgARVXD1vH0eNLSUpPpvaOfCxqFhEKIQ1_nFjDdqAROdu6CzOATeYY-tYE&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=6BBOcONtOFev4wnHD0CbqQ&oh=00_AfEfVdRfDyGmbJEG5gTDJuxcJUU7Uviv4CdU6XX0O6tHOw&oe=68196531)
-
 ### Hi there 👋, I'm Shyed Hasan Likhon
 #### 👨‍💻 CSE Student | Debugging My Life One Commit at a Time 🚀
-![👨‍💻 CSE Student | Debugging My Life One Commit at a Time 🚀](
+![👨‍💻 CSE Student | Debugging My Life One Commit at a Time 🚀](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/487481886_4052490935019529_8680986197305389616_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=WY9Hfoil0EYQ7kNvwGJooqU&_nc_oc=Adm-o8Cs_AgARVXD1vH0eNLSUpPpvaOfCxqFhEKIQ1_nFjDdqAROdu6CzOATeYY-tYE&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=6BBOcONtOFev4wnHD0CbqQ&oh=00_AfEfVdRfDyGmbJEG5gTDJuxcJUU7Uviv4CdU6XX0O6tHOw&oe=68196531)
 
 
 CSE Student | Developer-in-Progress | Tech Explorer  
