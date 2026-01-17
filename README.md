@@ -7,10 +7,10 @@ I believe in **learning by building, sharing progress, and improving consistentl
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Undergraduate **CSE student (Completed up to Trimester 8)**
+- 🎓 Undergraduate **CSE student (Completed up to Trimester 7)**
 - 📊 Strong interest in **Data Science & Machine Learning**
 - ☁️ Exploring **Cloud Computing** and modern system deployment
-- 🔐 Learning fundamentals of **Cyber Security**
+- 🔐 Learning fundamentals of **Computer Programming**
 - 🧠 Love turning theory into practical projects
 
 ---
@@ -29,13 +29,13 @@ I believe in **learning by building, sharing progress, and improving consistentl
 - **C** – Structured programming, DSA basics  
 - **C++** – Object-oriented programming, DSA practice  
 - **Java** – OOP, academic & practical projects  
-- **HTML** – Basic frontend & project pages  
+- **HTML** – Basic frontend & project pages
+
 
 #### 🔹 Core CS Knowledge
 - Data Structures & Algorithms (I & II)
 - Object Oriented Programming
 - Database Management Systems
-- Software Engineering
 - Artificial Intelligence (Introductory)
 - Computer Architecture
 - Probability & Statistics
@@ -45,10 +45,11 @@ I believe in **learning by building, sharing progress, and improving consistentl
 - Basic SQL
 - Linux (Basic)
 - VS Code
+- MySQL
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Try to Learning
 - Machine Learning foundations
 - Data handling & analysis
 - Cloud Computing concepts
@@ -65,7 +66,7 @@ I believe in **learning by building, sharing progress, and improving consistentl
 ---
 
 ### 📌 Projects (In Progress)
-- 📊 Data Science & ML mini projects  
+- Electronics lab projects  
 - 🧮 Data Structures practice (C/C++)  
 - 🗄️ DBMS academic project  
 - 🌐 Portfolio website  
