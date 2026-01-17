@@ -1,24 +1,92 @@
 ### Hi there 👋, I'm Shyed Hasan Likhon
-#### 👨‍💻 CSE Student | Debugging My Life One Commit at a Time 🚀
+#### 🎓 CSE Student | Aspiring Data Scientist | Cloud & Cybersecurity Enthusiast 🚀
 
-CSE Student | Developer-in-Progress | Tech Explorer  
-Passionate about **clean code, problem-solving, and learning in public**.  
-- 🔹 **Focus Areas:** Backend Development, Cloud Computing, and Open Source  
-- 🔹 **Currently Improving:** System Design & Interview Prep  
-- 🔹 **Dream Role:** SDE at a product-driven company 🚀  
+CSE Student passionate about **data-driven problem solving, secure systems, and scalable technologies**.  
+I believe in **learning by building, sharing progress, and improving consistently**.
 
-Skills: Java/ C / html
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning C++ 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web devlop 
-- 📫 How to reach me: https://www.facebook.com/shyed.likhon/ 
-- 😄 Pronouns: Likhon 
+### 👨‍💻 About Me
+- 🎓 Undergraduate **CSE student (Completed up to Trimester 8)**
+- 📊 Strong interest in **Data Science & Machine Learning**
+- ☁️ Exploring **Cloud Computing** and modern system deployment
+- 🔐 Learning fundamentals of **Cyber Security**
+- 🧠 Love turning theory into practical projects
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MSHLIKHON)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shyed.likhon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/shyed_likhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@mdshyedhasanlikhon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/msh_likhon/)  
+### 🎯 Focus Areas
+- **Data Science & Machine Learning**
+- **Cloud Computing (Scalable Systems)**
+- **Cyber Security (System & Network Security basics)**
+- Problem Solving & Core Computer Science
 
+---
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Skills
 
+#### 🔹 Programming Languages
+- **C** – Structured programming, DSA basics  
+- **C++** – Object-oriented programming, DSA practice  
+- **Java** – OOP, academic & practical projects  
+- **HTML** – Basic frontend & project pages  
+
+#### 🔹 Core CS Knowledge
+- Data Structures & Algorithms (I & II)
+- Object Oriented Programming
+- Database Management Systems
+- Software Engineering
+- Artificial Intelligence (Introductory)
+- Computer Architecture
+- Probability & Statistics
+
+#### 🔹 Tools & Platforms
+- Git & GitHub
+- Basic SQL
+- Linux (Basic)
+- VS Code
+
+---
+
+### 🌱 Currently Learning
+- Machine Learning foundations
+- Data handling & analysis
+- Cloud Computing concepts
+- Cyber Security fundamentals
+
+---
+
+### 🚀 Dream Roles
+- **Data Scientist / Machine Learning Engineer**
+- **Cloud Engineer**
+- **Cyber Security Analyst**
+- Software Engineer (Data-focused products)
+
+---
+
+### 📌 Projects (In Progress)
+- 📊 Data Science & ML mini projects  
+- 🧮 Data Structures practice (C/C++)  
+- 🗄️ DBMS academic project  
+- 🌐 Portfolio website  
+
+_(Repositories will be updated regularly)_
+
+---
+
+### 🌐 Connect With Me
+- 🔗 GitHub: https://github.com/MSHLIKHON  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/  
+- 📘 Facebook: https://www.facebook.com/shyed.likhon  
+
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+</p>
+
+⭐ *“Build skills quietly, let results speak loudly.”*
