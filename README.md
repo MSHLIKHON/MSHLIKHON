@@ -43,7 +43,6 @@ I believe in **learning by building, sharing progress, and improving consistentl
 #### 🔹 Tools & Platforms
 - Git & GitHub
 - Basic SQL
-- Linux (Basic)
 - VS Code
 - MySQL
 
