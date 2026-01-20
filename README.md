@@ -12,6 +12,11 @@ I believe in **learning by building, sharing progress, and improving consistentl
 - ☁️ Exploring **Cloud Computing** and modern system deployment
 - 🔐 Learning fundamentals of **Computer Programming**
 - 🧠 Love turning theory into practical projects
+---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blueberry" />
+</p>
 
 ---
 
@@ -45,6 +50,7 @@ I believe in **learning by building, sharing progress, and improving consistentl
 - Basic SQL
 - VS Code
 - MySQL
+- CISCO
 
 ---
 
@@ -77,8 +83,9 @@ _(Repositories will be updated regularly)_
 ### 🌐 Connect With Me
 - 🔗 GitHub: https://github.com/MSHLIKHON  
 - 💼 LinkedIn: https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/  
-- 📘 Facebook: https://www.facebook.com/shyed.likhon  
-
+- 📘 Facebook: https://www.facebook.com/shyed.likhon
+- 🐦 Twitter: https://x.com/shyed_likhon
+- 👽 Reddit: https://www.reddit.com/user/msh_likhon/ 
 ---
 
 ### 🧰 Languages & Tools
@@ -87,6 +94,8 @@ _(Repositories will be updated regularly)_
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,git,github,mysql,vscode" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ⭐ *“Build skills quietly, let results speak loudly.”*
