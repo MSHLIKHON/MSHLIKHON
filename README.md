@@ -1,92 +1,23 @@
-### Hi there 👋, I'm Shyed Hasan Likhon
-#### 🎓 CSE Student | Aspiring Data Scientist | Cloud & Cybersecurity Enthusiast 🚀
+# Hi, I'm Shyed Hasan Likhon 👋
 
-CSE Student passionate about **data-driven problem solving, secure systems, and scalable technologies**.  
-I believe in **learning by building, sharing progress, and improving consistently**.
+I'm a CSE undergraduate interested in data science and machine learning, cloud computing, and cybersecurity. I learn best by building projects, testing ideas, and improving them over time.
 
----
+- Currently learning: machine learning foundations, data analysis, cloud deployment, and security fundamentals.
+- Comfortable with: C, C++, Java, HTML, basic SQL, Git, GitHub, VS Code, and MySQL.
+- Core subjects: data structures and algorithms, object-oriented programming, databases, introductory AI, and probability and statistics.
 
-### 👨‍💻 About Me
-- 🎓 Undergraduate **CSE student (Completed up to Trimester 7)**
-- 📊 Strong interest in **Data Science & Machine Learning**
-- ☁️ Exploring **Cloud Computing** and modern system deployment
-- 🔐 Learning fundamentals of **Computer Programming**
-- 🧠 Love turning theory into practical projects
+## Selected projects
 
----
+- [Career Copilot Lab](https://github.com/MSHLIKHON/career_copilot_lab) — A local Python and Streamlit prototype for skill verification and adaptive practice.
+- [Personal portfolio](https://github.com/MSHLIKHON/mshlikhon.github.io) — My portfolio website and a place to share projects.
+- [Game of Life](https://github.com/MSHLIKHON/Game-of-life) — A Java implementation of Conway's Game of Life.
 
-### 🎯 Focus Areas
-- **Data Science & Machine Learning**
-- **Cloud Computing (Scalable Systems)**
-- **Cyber Security (System & Network Security basics)**
-- Problem Solving & Core Computer Science
+## What I'm exploring next
 
----
+I'm interested in building data-focused software that is useful, understandable, and secure. My current learning path connects machine learning with practical software engineering and cloud fundamentals.
 
-### 🛠️ Technical Skills
+## Connect
 
-#### 🔹 Programming Languages
-- **C** – Structured programming, DSA basics  
-- **C++** – Object-oriented programming, DSA practice  
-- **Java** – OOP, academic & practical projects  
-- **HTML** – Basic frontend & project pages
+[LinkedIn](https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/) · [GitHub repositories](https://github.com/MSHLIKHON?tab=repositories) · [X](https://x.com/shyed_likhon) · [Facebook](https://www.facebook.com/shyed.likhon) · [Reddit](https://www.reddit.com/user/msh_likhon/)
 
-
-#### 🔹 Core CS Knowledge
-- Data Structures & Algorithms (I & II)
-- Object Oriented Programming
-- Database Management Systems
-- Artificial Intelligence (Introductory)
-- Computer Architecture
-- Probability & Statistics
-
-#### 🔹 Tools & Platforms
-- Git & GitHub
-- Basic SQL
-- VS Code
-- MySQL
-- CISCO
-
----
-
-### 🌱 Currently Try to Learning
-- Machine Learning foundations
-- Data handling & analysis
-- Cloud Computing concepts
-- Cyber Security fundamentals
-
----
-
-### 🚀 Dream Roles
-- **Data Scientist / Machine Learning Engineer**
-- **Cloud Engineer**
-- **Cyber Security Analyst**
-- Software Engineer (Data-focused products)
-
----
-
-### 📌 Projects (In Progress)
-- Electronics lab projects  
-- 🧮 Data Structures practice (C/C++)  
-- 🗄️ DBMS academic project  
-- 🌐 Portfolio website  
-
-_(Repositories will be updated regularly)_
-
----
-
-### 🌐 Connect With Me
-- 🔗 GitHub: https://github.com/MSHLIKHON  
-- 💼 LinkedIn: https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/  
-- 📘 Facebook: https://www.facebook.com/shyed.likhon
-- 🐦 Twitter: https://x.com/shyed_likhon
-- 👽 Reddit: https://www.reddit.com/user/msh_likhon/ 
----
-
-### 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,git,github,mysql,vscode" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-⭐ *“Build skills quietly, let results speak loudly.”*
+> Build skills quietly, let results speak loudly.
