@@ -1,4 +1,4 @@
-# Shyed Hasan Likhon
+# MD Shyed Hasan Likhon
 
 CSE undergraduate · Software engineering · Networking · Cybersecurity · Cloud computing
 
@@ -10,8 +10,8 @@ Software engineering is the direction I want to work in. I'm also exploring netw
 
 ## Skills & coursework
 
-- **Languages:** Python, JavaScript, Java, C, C++, HTML, and basic SQL.
-- **Tools:** Git, GitHub, MySQL, VS Code, and Figma.
+- **Languages:** Python, JavaScript, Java, C, C++, PHP, HTML, and basic SQL.
+- **Tools:** Git, GitHub, MySQL, VS Code, cisco and Figma.
 - **Core CSE topics:** Data structures and algorithms, object-oriented programming, database management systems, operating systems, computer architecture, system analysis and design, introductory artificial intelligence, and probability and statistics.
 
 ## Projects
