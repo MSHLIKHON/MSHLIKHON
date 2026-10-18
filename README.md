@@ -2,11 +2,11 @@
 
 # Hello, I’m Likhon.
 
-**CSE Undergraduate at UIU · Banking IT & IT Operations Interests · Community Service**
+**CSE Undergraduate @ UIU · Major in Software Engineering · Networking & Information Systems · Technology for Social Impact**
 
 I study Computer Science and Engineering at United International University, Dhaka. I have completed **105 of 138 credits**, with expected graduation in **Summer 2027**.
 
-I am exploring entry-level opportunities in banking IT, IT support and operations, and the development sector. My interests combine networking, databases, information systems, teamwork, and community-focused work.
+I am majoring in Software Engineering, with interests in networking, databases, and information systems. I am exploring entry-level opportunities where I can apply technical knowledge, teamwork, and community experience to practical challenges.
 
 [Portfolio](https://mshlikhon.github.io/) · [LinkedIn](https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/) · [Email](mailto:myselfmshl@gmail.com)
 
