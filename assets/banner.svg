@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-labelledby="title desc">
+<title id="title">Likhon — People, Systems and Impact</title><desc id="desc">CSE undergraduate at UIU. Technology with a community purpose. An animated network connects people, networks, data and services.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081425"/><stop offset="1" stop-color="#102e38"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7cebd0" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="530" rx="24" fill="url(#bg)"/><rect width="1200" height="530" rx="24" fill="url(#grid)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="65" fill="#73dfc8" font-size="13" letter-spacing="4">PEOPLE / SYSTEMS / IMPACT</text>
+<text x="60" y="178" fill="#f1f7fa" font-size="100" font-weight="700" letter-spacing="-4">LIKHON<tspan fill="#73dfc8">.</tspan></text>
+<text x="65" y="216" fill="#c6d7e0" font-size="21">Md. Shyed Hasan Likhon</text>
+<text x="65" y="263" fill="#f1f7fa" font-size="27">Technology with a community purpose.</text>
+<text x="65" y="299" fill="#9eb5c4" font-size="17">CSE at UIU · Banking IT &amp; operations interests · Dhaka</text>
+<g transform="translate(920 92)"><rect width="185" height="185" rx="40" fill="#143b43" stroke="#73dfc8" stroke-opacity=".4"/><path d="M47 45V136H94 M111 45V136 M111 94L145 45 M111 94L151 136" stroke="#73dfc8" stroke-width="11" fill="none" stroke-linejoin="round"/><circle cx="164" cy="22" r="6" fill="#73dfc8"/></g>
+<path d="M115 391H1085" stroke="#345763" stroke-width="2"/>
+<circle r="5" fill="#9fffe3"><animateMotion dur="8s" repeatCount="indefinite" path="M115 391H1085"/></circle>
+<circle cx="115" cy="391" r="12" fill="#102733" stroke="#73dfc8" stroke-width="2"/><circle cx="115" cy="391" r="4" fill="#73dfc8"/><text x="115" y="435" text-anchor="middle" font-size="14" letter-spacing="2" fill="#dce9ed">PEOPLE</text><circle cx="438" cy="391" r="12" fill="#102733" stroke="#73dfc8" stroke-width="2"/><circle cx="438" cy="391" r="4" fill="#73dfc8"/><text x="438" y="435" text-anchor="middle" font-size="14" letter-spacing="2" fill="#dce9ed">NETWORKS</text><circle cx="761" cy="391" r="12" fill="#102733" stroke="#73dfc8" stroke-width="2"/><circle cx="761" cy="391" r="4" fill="#73dfc8"/><text x="761" y="435" text-anchor="middle" font-size="14" letter-spacing="2" fill="#dce9ed">DATA</text><circle cx="1084" cy="391" r="12" fill="#102733" stroke="#73dfc8" stroke-width="2"/><circle cx="1084" cy="391" r="4" fill="#73dfc8"/><text x="1084" y="435" text-anchor="middle" font-size="14" letter-spacing="2" fill="#dce9ed">SERVICES</text>
+<text x="65" y="490" fill="#8ba7b7" font-size="12" letter-spacing="2">LEARN WITH CURIOSITY. CONTRIBUTE WITH PURPOSE.</text>
+</g></svg>

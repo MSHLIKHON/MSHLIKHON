@@ -1,4 +1,6 @@
-# Md. Shyed Hasan Likhon
+<img src="assets/banner.svg" width="100%" alt="Likhon — People, Systems and Impact. Technology with a community purpose." />
+
+# Hello, I’m Likhon.
 
 **CSE Undergraduate at UIU · Banking IT & IT Operations Interests · Community Service**
 
@@ -17,6 +19,9 @@ I am exploring entry-level opportunities in banking IT, IT support and operation
 - **Professional strengths:** Teamwork, communication, event logistics, volunteer coordination, public speaking.
 
 ## Selected projects
+
+<a href="https://github.com/MSHLIKHON/BloodBridge-BD"><img src="assets/bloodbridge.svg" width="49%" alt="BloodBridge BD — PHP and MySQL academic demo" /></a>
+<a href="https://github.com/MSHLIKHON/career_copilot_lab"><img src="assets/career-copilot.svg" width="49%" alt="Career Copilot Lab — Python learning prototype" /></a>
 
 ### [BloodBridge BD](https://github.com/MSHLIKHON/BloodBridge-BD)
 An academic **PHP and MySQL** demo for blood-donation coordination, with donor search, request workflows, hospital inventory, role-based dashboards, and reporting.
@@ -42,3 +47,9 @@ My projects, education, leadership activities, and contact details. [View source
 Grameenphone Academy skill development courses and professional workshops. [View certificates](https://drive.google.com/drive/folders/1-tNXgIcSrWGG24EfCFrsKpNAvmtIfNsZ?usp=share_link).
 
 Based in **Dhaka, Bangladesh**. Open to entry-level opportunities, learning, and collaboration.
+
+---
+
+<a href="https://mshlikhon.github.io/"><img src="assets/portfolio.svg" alt="Visit my portfolio" width="160" /></a>
+<a href="https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="160" /></a>
+<a href="mailto:myselfmshl@gmail.com"><img src="assets/email.svg" alt="Send me an email" width="160" /></a>
