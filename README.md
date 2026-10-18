@@ -1,25 +1,44 @@
-# MD Shyed Hasan Likhon
+# Md. Shyed Hasan Likhon
 
-CSE undergraduate · Software engineering · Networking · Cybersecurity · Cloud computing
+**CSE Undergraduate at UIU · Banking IT & IT Operations Interests · Community Service**
 
-I enjoy building useful software and learning how systems work—from application design to the networks and infrastructure behind them.
+I study Computer Science and Engineering at United International University, Dhaka. I have completed **105 of 138 credits**, with expected graduation in **Summer 2027**.
 
-## Focus
+I am exploring entry-level opportunities in banking IT, IT support and operations, and the development sector. My interests combine networking, databases, information systems, teamwork, and community-focused work.
 
-Software engineering is the direction I want to work in. I'm also exploring networking, cybersecurity, and cloud computing, with an interest in practical, reliable systems.
+[Portfolio](https://mshlikhon.github.io/) · [LinkedIn](https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/) · [Email](mailto:myselfmshl@gmail.com)
 
-## Skills & coursework
+## Skills & tools
 
-- **Languages:** Python, JavaScript, Java, C, C++, PHP, HTML, and basic SQL.
-- **Tools:** Git, GitHub, MySQL, VS Code, cisco and Figma.
-- **Core CSE topics:** Data structures and algorithms, object-oriented programming, database management systems, operating systems, computer architecture, system analysis and design, introductory artificial intelligence, and probability and statistics.
+- **Networking:** Cisco Packet Tracer, IP addressing, router and switch fundamentals.
+- **Programming & web:** C, Python, HTML, PHP.
+- **Databases:** MySQL, SQL, ER diagrams, schema design.
+- **Design & collaboration:** Figma, Git, GitHub, VS Code, Microsoft Office.
+- **Professional strengths:** Teamwork, communication, event logistics, volunteer coordination, public speaking.
 
-## Projects
+## Selected projects
 
-**Tectonix** · **S-Cyber** · **Mayor's Rise**
+### [BloodBridge BD](https://github.com/MSHLIKHON/BloodBridge-BD)
+An academic **PHP and MySQL** demo for blood-donation coordination, with donor search, request workflows, hospital inventory, role-based dashboards, and reporting.
 
-Public code: [Career Copilot Lab](https://github.com/MSHLIKHON/career_copilot_lab) · [Personal portfolio](https://github.com/MSHLIKHON/mshlikhon.github.io)
+### [Career Copilot Lab](https://github.com/MSHLIKHON/career_copilot_lab)
+A team classroom prototype using **Python, Streamlit, and SQLite**, with practice tasks, progress tracking, skill-gap exploration, and machine-learning feedback.
 
-## Connect
+### [Mayor’s Rise](https://github.com/ashad-abir/Mayor-s-Rise)
+A collaborative **Java** project from the Advanced OOP Laboratory. Contributions included planning, program structure, data handling, and applying object-oriented concepts.
 
-[LinkedIn](https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/) · [GitHub repositories](https://github.com/MSHLIKHON?tab=repositories)
+### [Personal Portfolio](https://mshlikhon.github.io/)
+My projects, education, leadership activities, and contact details. [View source](https://github.com/MSHLIKHON/mshlikhon.github.io).
+
+## Leadership & community
+
+- **Deputy Logistics, UIU Social Services Club** — 2024–2026.
+- **General Member, UIU App Forum** — 2023–Present.
+- **Founder & Volunteer, Personal Social Welfare Initiative** — 2020–Present; relief and community support.
+- **General Secretary, National Children’s Task Force, school branch** — August 2017–February 2018; children’s rights and welfare initiatives.
+
+## Continuing learning
+
+Grameenphone Academy skill development courses and professional workshops. [View certificates](https://drive.google.com/drive/folders/1-tNXgIcSrWGG24EfCFrsKpNAvmtIfNsZ?usp=share_link).
+
+Based in **Dhaka, Bangladesh**. Open to entry-level opportunities, learning, and collaboration.
