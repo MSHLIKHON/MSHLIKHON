@@ -1,0 +1,66 @@
+{
+  "username": "MSHLIKHON",
+  "name": "MD Shyed Hasan Likhon",
+  "short_name": "LIKHON",
+  "role": "CSE undergraduate · Software Engineering",
+  "university": "United International University",
+  "location": "Dhaka, Bangladesh",
+  "graduation": "Summer 2027",
+  "portfolio": "https://mshlikhon.github.io/",
+  "linkedin": "https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/",
+  "email": "myselfmshl@gmail.com",
+  "projects": [
+    {
+      "name": "UIU Compass",
+      "repo": "uiu-compass",
+      "category": "01 / STUDENT TOOLS",
+      "tag": "ACADEMIC PLANNING",
+      "description": [
+        "A clearer path through university.",
+        "Academic and financial planning for UIU students."
+      ],
+      "stack": "React · PWA · Local-first",
+      "accent": "#b8ff75",
+      "motif": "compass"
+    },
+    {
+      "name": "BloodBridge BD",
+      "repo": "BloodBridge-BD",
+      "category": "02 / COMMUNITY SYSTEMS",
+      "tag": "SOCIAL IMPACT",
+      "description": [
+        "Connecting the need. Coordinating the help.",
+        "Academic blood-donation coordination demo."
+      ],
+      "stack": "PHP · MySQL · Role-based workflows",
+      "accent": "#ff9caa",
+      "motif": "bridge"
+    },
+    {
+      "name": "Career Copilot Lab",
+      "repo": "career_copilot_lab",
+      "category": "03 / LEARNING EXPERIMENTS",
+      "tag": "TEAM CLASSROOM PROTOTYPE",
+      "description": [
+        "Small steps. Visible progress.",
+        "Practice, skill-gap exploration and feedback."
+      ],
+      "stack": "Python · Streamlit · SQLite",
+      "accent": "#9ebcff",
+      "motif": "steps"
+    },
+    {
+      "name": "Game of Life",
+      "repo": "Game-of-life",
+      "category": "04 / COMPUTATIONAL PLAY",
+      "tag": "CELLULAR AUTOMATA",
+      "description": [
+        "Simple rules. Unexpected worlds.",
+        "An implementation of Conway’s Game of Life."
+      ],
+      "stack": "Java · Simulation",
+      "accent": "#d1abff",
+      "motif": "cells"
+    }
+  ]
+}

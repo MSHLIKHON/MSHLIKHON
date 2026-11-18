@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="284" viewBox="0 0 580 284" role="img" aria-labelledby="title desc">
+<title id="title">Career Copilot Lab</title><desc id="desc">Small steps. Visible progress. Practice, skill-gap exploration and feedback. Python · Streamlit · SQLite</desc>
+<defs>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162332"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b8ff75" stop-opacity=".13"/><stop offset="1" stop-color="#b8ff75" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398af" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+ .pulse{animation:pulse 3s ease-in-out infinite} .flow{stroke-dasharray:5 13;animation:flow 6s linear infinite}
+ .float{animation:float 7s ease-in-out infinite} .scan{animation:scan 9s linear infinite}
+ .trace{stroke-dasharray:180 700;animation:trace 16s linear infinite}
+ @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+ @keyframes flow{to{stroke-dashoffset:-180}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+ @keyframes scan{0%{transform:translateX(0);opacity:0}10%,80%{opacity:.6}100%{transform:translateX(1050px);opacity:0}}
+ @keyframes trace{to{stroke-dashoffset:-880}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.float,.scan,.trace{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="579" height="283" rx="18" fill="#0c1118" stroke="#283643" />
+<path d="M22 1 H578" fill="none" stroke="#9ebcff" stroke-width="2" /><text x="28" y="37" fill="#a4b2c1" font-size="12" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >03 / LEARNING EXPERIMENTS</text><text x="28" y="96" fill="#f0f2e9" font-size="33" font-weight="650" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" letter-spacing="-.8">Career Copilot Lab</text><text x="28" y="126" fill="#9ebcff" font-size="11" font-weight="600" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" letter-spacing="1">TEAM CLASSROOM PROTOTYPE</text><text x="28" y="174" fill="#a4b2c1" font-size="17" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Small steps. Visible progress.</text><text x="28" y="201" fill="#a4b2c1" font-size="17" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Practice, skill-gap exploration and feedback.</text><path d="M28 228 H552" fill="none" stroke="#283643" stroke-width="1" /><text x="28" y="258" fill="#9ebcff" font-size="13" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >Python · Streamlit · SQLite</text><text x="550" y="38" fill="#9ebcff" font-size="24" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" text-anchor="end">↗</text><rect x="492" y="117" width="10" height="10" rx="2" fill="#9ebcff" stroke="none" opacity="0.3"/><rect x="508" y="104" width="10" height="10" rx="2" fill="#9ebcff" stroke="none" opacity="0.5"/><rect x="524" y="91" width="10" height="10" rx="2" fill="#9ebcff" stroke="none" opacity="0.7"/><rect x="540" y="78" width="10" height="10" rx="2" fill="#9ebcff" stroke="none" opacity="0.9000000000000001"/><path d="M491 134 H554" fill="none" stroke="#283643" stroke-width="1" />
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="298" viewBox="0 0 1200 298" role="img" aria-labelledby="title desc">
+<title id="title">Leadership and community</title><desc id="desc">Leadership and community</desc>
+<defs>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162332"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b8ff75" stop-opacity=".13"/><stop offset="1" stop-color="#b8ff75" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398af" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+ .pulse{animation:pulse 3s ease-in-out infinite} .flow{stroke-dasharray:5 13;animation:flow 6s linear infinite}
+ .float{animation:float 7s ease-in-out infinite} .scan{animation:scan 9s linear infinite}
+ .trace{stroke-dasharray:180 700;animation:trace 16s linear infinite}
+ @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+ @keyframes flow{to{stroke-dashoffset:-180}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+ @keyframes scan{0%{transform:translateX(0);opacity:0}10%,80%{opacity:.6}100%{transform:translateX(1050px);opacity:0}}
+ @keyframes trace{to{stroke-dashoffset:-880}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.float,.scan,.trace{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="297" rx="18" fill="#0c1118" stroke="#283643" />
+<text x="32" y="43" fill="#b8ff75" font-size="14" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >03 / BEYOND THE KEYBOARD</text><text x="32" y="96" fill="#f0f2e9" font-size="32" font-weight="650" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Good systems start with understanding people.</text><text x="32" y="135" fill="#a4b2c1" font-size="20" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Community work informs how I think, collaborate and build.</text><path d="M32 169 H362" fill="none" stroke="#283643" stroke-width="1" /><text x="32" y="202" fill="#b8ff75" font-size="12" font-weight="600" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >01</text><text x="32" y="235" fill="#f0f2e9" font-size="21" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >UIU Social Services Club</text><text x="32" y="266" fill="#a4b2c1" font-size="14" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Deputy Logistics · 2024–2026</text><path d="M435 169 H765" fill="none" stroke="#283643" stroke-width="1" /><text x="435" y="202" fill="#b8ff75" font-size="12" font-weight="600" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >02</text><text x="435" y="235" fill="#f0f2e9" font-size="21" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >UIU App Forum</text><text x="435" y="266" fill="#a4b2c1" font-size="14" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >General Member · 2023–Present</text><path d="M838 169 H1168" fill="none" stroke="#283643" stroke-width="1" /><text x="838" y="202" fill="#b8ff75" font-size="12" font-weight="600" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >03</text><text x="838" y="235" fill="#f0f2e9" font-size="21" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Social Welfare Initiative</text><text x="838" y="266" fill="#a4b2c1" font-size="14" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Founder &amp; Volunteer · 2020–Present</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="126" viewBox="0 0 1200 126" role="img" aria-labelledby="title desc">
+<title id="title">Make it useful. Then make it better. — Likhon</title><desc id="desc">Make it useful. Then make it better. — Likhon</desc>
+<defs>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162332"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b8ff75" stop-opacity=".13"/><stop offset="1" stop-color="#b8ff75" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398af" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+ .pulse{animation:pulse 3s ease-in-out infinite} .flow{stroke-dasharray:5 13;animation:flow 6s linear infinite}
+ .float{animation:float 7s ease-in-out infinite} .scan{animation:scan 9s linear infinite}
+ .trace{stroke-dasharray:180 700;animation:trace 16s linear infinite}
+ @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+ @keyframes flow{to{stroke-dashoffset:-180}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+ @keyframes scan{0%{transform:translateX(0);opacity:0}10%,80%{opacity:.6}100%{transform:translateX(1050px);opacity:0}}
+ @keyframes trace{to{stroke-dashoffset:-880}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.float,.scan,.trace{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="125" rx="18" fill="#0c1118" stroke="#283643" />
+<path d="M32 1 H1168" fill="none" stroke="#283643" stroke-width="1" /><text x="32" y="57" fill="#f0f2e9" font-size="30" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" letter-spacing="-.8">MAKE IT USEFUL.</text><text x="32" y="91" fill="#a4b2c1" font-size="20" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Then make it better.</text><text x="1168" y="57" fill="#b8ff75" font-size="13" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" text-anchor="end">MD SHYED HASAN LIKHON</text><text x="1168" y="86" fill="#a4b2c1" font-size="11" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" text-anchor="end">DHAKA, BANGLADESH / OPEN TO COLLABORATE</text>
+</svg>

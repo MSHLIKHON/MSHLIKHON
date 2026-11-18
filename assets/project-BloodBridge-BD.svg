@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="284" viewBox="0 0 580 284" role="img" aria-labelledby="title desc">
+<title id="title">BloodBridge BD</title><desc id="desc">Connecting the need. Coordinating the help. Academic blood-donation coordination demo. PHP · MySQL · Role-based workflows</desc>
+<defs>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162332"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b8ff75" stop-opacity=".13"/><stop offset="1" stop-color="#b8ff75" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398af" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+ .pulse{animation:pulse 3s ease-in-out infinite} .flow{stroke-dasharray:5 13;animation:flow 6s linear infinite}
+ .float{animation:float 7s ease-in-out infinite} .scan{animation:scan 9s linear infinite}
+ .trace{stroke-dasharray:180 700;animation:trace 16s linear infinite}
+ @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+ @keyframes flow{to{stroke-dashoffset:-180}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+ @keyframes scan{0%{transform:translateX(0);opacity:0}10%,80%{opacity:.6}100%{transform:translateX(1050px);opacity:0}}
+ @keyframes trace{to{stroke-dashoffset:-880}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.float,.scan,.trace{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="579" height="283" rx="18" fill="#0c1118" stroke="#283643" />
+<path d="M22 1 H578" fill="none" stroke="#ff9caa" stroke-width="2" /><text x="28" y="37" fill="#a4b2c1" font-size="12" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >02 / COMMUNITY SYSTEMS</text><text x="28" y="96" fill="#f0f2e9" font-size="33" font-weight="650" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" letter-spacing="-.8">BloodBridge BD</text><text x="28" y="126" fill="#ff9caa" font-size="11" font-weight="600" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" letter-spacing="1">SOCIAL IMPACT</text><text x="28" y="174" fill="#a4b2c1" font-size="17" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Connecting the need. Coordinating the help.</text><text x="28" y="201" fill="#a4b2c1" font-size="17" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Academic blood-donation coordination demo.</text><path d="M28 228 H552" fill="none" stroke="#283643" stroke-width="1" /><text x="28" y="258" fill="#ff9caa" font-size="13" font-weight="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" >PHP · MySQL · Role-based workflows</text><text x="550" y="38" fill="#ff9caa" font-size="24" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" text-anchor="end">↗</text><path d="M491 119 V82 M549 119 V82 M486 104 Q520 59 554 104 M486 114 H554" fill="none" stroke="#ff9caa" stroke-width="1.8" /><path d="M501 92 V113" fill="none" stroke="#283643" stroke-width="1" /><path d="M511 92 V113" fill="none" stroke="#283643" stroke-width="1" /><path d="M529 92 V113" fill="none" stroke="#283643" stroke-width="1" /><path d="M539 92 V113" fill="none" stroke="#283643" stroke-width="1" />
+</svg>

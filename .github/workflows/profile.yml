@@ -1,46 +1,41 @@
-name: Refresh animated profile
+name: Refresh personal profile
+
 on:
   push:
     branches: [main]
-    paths: ["config.yml", "scripts/**", "creator.json", ".github/workflows/profile.yml"]
+    paths:
+      - profile.json
+      - scripts/build_profile.py
+      - .github/workflows/profile.yml
   schedule:
-    - cron: "17 18 * * *"
+    - cron: '17 18 * * *'
   workflow_dispatch:
-permissions:
-  contents: write
+
+permissions: {}
+
 concurrency:
-  group: animated-profile
+  group: personal-profile
   cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - name: Build README and local animated assets
-        run: node scripts/generate.js
+      - name: Check out profile
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Refresh public data and render original artwork
+        run: python3 scripts/build_profile.py --refresh
         env:
-          DEVVERSE_OFFLINE: "1"
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            assets/github-snake-dark.svg?palette=github-dark&color_snake=00ff41
-      - name: Generate real 3D contributions
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Publish refreshed assets
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Commit refreshed profile
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets profile-3d-contrib
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets data/github.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh animated profile [skip ci]"
+            git commit -m 'chore: refresh profile activity [skip ci]'
             git push
           fi

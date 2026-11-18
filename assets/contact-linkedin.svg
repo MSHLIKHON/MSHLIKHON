@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="68" viewBox="0 0 360 68" role="img" aria-labelledby="title desc">
+<title id="title">Connect on LinkedIn</title><desc id="desc">https://www.linkedin.com/in/md-shyed-hasan-likhon-2133851a5/</desc>
+<defs>
+ <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#162332"/><stop offset="1" stop-color="#0c1118"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#b8ff75" stop-opacity=".13"/><stop offset="1" stop-color="#b8ff75" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8398af" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+ .pulse{animation:pulse 3s ease-in-out infinite} .flow{stroke-dasharray:5 13;animation:flow 6s linear infinite}
+ .float{animation:float 7s ease-in-out infinite} .scan{animation:scan 9s linear infinite}
+ .trace{stroke-dasharray:180 700;animation:trace 16s linear infinite}
+ @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+ @keyframes flow{to{stroke-dashoffset:-180}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+ @keyframes scan{0%{transform:translateX(0);opacity:0}10%,80%{opacity:.6}100%{transform:translateX(1050px);opacity:0}}
+ @keyframes trace{to{stroke-dashoffset:-880}}
+ @media(prefers-reduced-motion:reduce){.pulse,.flow,.float,.scan,.trace{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="359" height="67" rx="18" fill="#0c1118" stroke="#283643" />
+<circle cx="29" cy="33" r="4" fill="#8baeff" /><text x="47" y="39" fill="#f0f2e9" font-size="17" font-weight="600" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >Connect on LinkedIn</text><text x="330" y="39" fill="#8baeff" font-size="22" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" >↗</text>
+</svg>
