@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - profile.json
+      - assets/portrait.png
       - scripts/build_profile.py
       - .github/workflows/profile.yml
   schedule:

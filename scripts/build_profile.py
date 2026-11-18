@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Render Likhon's original profile artwork. Python standard library only."""
 import argparse
+import base64
 import collections
 import datetime as dt
 import html
@@ -70,8 +71,8 @@ def svg(w, h, title, content, description=''):
 def header(cfg):
     s = rect(1,1,1198,438,'url(#wash)',18,'none')
     s += rect(1,1,1198,438,'url(#grid)',18,'none')
-    s += circle(976,212,250,'url(#halo)')
-    s += rect(34,32,43,32,MINT,7,'none') + text(43,54,'ML',18,BG,800,True)
+    s += circle(975,225,240,'url(#halo)')
+    s += rect(34,32,43,32,MINT,7,'none') + text(43,54,'L/',18,BG,800,True)
     s += text(92,54,'MSHLIKHON / PERSONAL SYSTEM',14,MUTED,500,True,extra='letter-spacing="1"')
     s += circle(1010,48,4,MINT,'class="pulse"') + text(1024,53,'DHAKA · BD',14,MUTED,500,True)
     s += text(40,111,'PEOPLE FIRST. SYSTEMS WITH PURPOSE.',14,MINT,600,True,extra='letter-spacing="2"')
@@ -82,18 +83,24 @@ def header(cfg):
     s += path('M42 386 H1158',LINE)
     for x, label in [(42,'SOFTWARE ENGINEERING'),(360,'NETWORKS & INFORMATION SYSTEMS'),(850,'TECH FOR SOCIAL IMPACT')]:
         s += text(x,416,label,13,MUTED,500,True)
-    # The personal monogram is a connected system: ideas, engineering, community.
-    s += '<g class="float">'
-    s += path('M895 122 L1065 186 L1001 322 L831 258 Z',LINE,1.5)
-    s += path('M895 122 L1001 322 M831 258 L1065 186',LINE)
-    s += '<ellipse cx="948" cy="221" rx="140" ry="91" transform="rotate(-24 948 221)" fill="none" stroke="#435665"/>'
-    s += '<ellipse cx="948" cy="221" rx="140" ry="91" transform="rotate(-24 948 221)" fill="none" stroke="#b8ff75" class="flow"/>'
-    s += rect(901,175,94,94,BG,22,'#8baeff')
-    s += text(918,235,'ML',38,WHITE,700,True)
-    for x,y,n,label in [(895,122,'01','LEARN'),(1065,186,'02','BUILD'),(1001,322,'03','CONNECT'),(831,258,'04','IMPACT')]:
-        s += circle(x,y,18,BG,f'stroke="{MINT}"')+text(x,y+5,n,12,MINT,500,True,'text-anchor="middle"')
-        s += text(x,y-29,label,11,MUTED,500,True,'text-anchor="middle"')
-    s += '</g>'
+    # Embed the local cutout: SVG images cannot fetch sibling files when rendered
+    # through GitHub's image proxy. A data URI keeps the header self-contained.
+    portrait=base64.b64encode((ROOT/'assets/portrait.png').read_bytes()).decode('ascii')
+    s += '''<defs>
+      <linearGradient id="portrait-fade" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="white"/><stop offset=".68" stop-color="white"/>
+        <stop offset="1" stop-color="black"/>
+      </linearGradient>
+      <mask id="portrait-mask" maskUnits="userSpaceOnUse" x="765" y="70" width="390" height="312">
+        <rect x="765" y="70" width="390" height="312" fill="url(#portrait-fade)"/>
+      </mask>
+    </defs>'''
+    s += '<ellipse cx="970" cy="226" rx="174" ry="128" transform="rotate(-22 970 226)" fill="none" stroke="#334b57"/>'
+    s += '<ellipse cx="970" cy="226" rx="174" ry="128" transform="rotate(-22 970 226)" fill="none" stroke="#b8ff75" stroke-opacity=".7" class="flow"/>'
+    s += f'<image x="794" y="73" width="350" height="420" href="data:image/png;base64,{portrait}" mask="url(#portrait-mask)"/>'
+    for x,y,n,label in [(800,129,'01','LEARN'),(1145,173,'02','BUILD'),(1136,324,'03','CONNECT'),(785,304,'04','IMPACT')]:
+        s += circle(x,y,16,BG,f'stroke="{MINT}"')+text(x,y+4,n,10,MINT,500,True,'text-anchor="middle"')
+        s += text(x,y-25,label,10,MUTED,500,True,'text-anchor="middle"')
     return svg(1200,440,'Likhon — People first. Systems with purpose.',s,
                cfg['name']+' · CSE at UIU. Software engineering, networking and technology for social impact.')
 

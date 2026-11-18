@@ -32,9 +32,17 @@ All-time contributions and private repository details are not requested.
 
 ## Design
 
-Graphite, warm white, mint and periwinkle; an original ML monogram; four linked
-nodes representing learn, build, connect and impact. Project glyphs represent
+Graphite, warm white, mint and periwinkle; Likhon's portrait with a soft fade
+into the header and an animated orbit representing learn, build, connect and
+impact. Project glyphs represent
 navigation, a bridge, progress steps and Conway's cellular automaton.
+
+The portrait cutout is `assets/portrait.png`. It was made from the user-provided
+photograph using the built-in ImageGen editor (background extraction). Prompt:
+remove the scenery and bench; retain identity, face, glasses, hair, pose, navy
+suit and original lighting; frame the head and upper body on transparent alpha;
+add no text or watermark. The generator embeds the PNG in `hero.svg` so it
+renders without external image requests.
 
 Animations use CSS, contain no scripts or network requests, leave all essential
 content readable in the first frame and respect reduced-motion preferences.
