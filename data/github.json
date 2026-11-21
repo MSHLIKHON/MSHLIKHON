@@ -42,10 +42,17 @@
         "languages": {
           "edges": [
             {
-              "size": 192528,
+              "size": 194572,
               "node": {
                 "name": "HTML",
                 "color": "#e34c26"
+              }
+            },
+            {
+              "size": 64192,
+              "node": {
+                "name": "JavaScript",
+                "color": "#f1e05a"
               }
             },
             {
@@ -53,13 +60,6 @@
               "node": {
                 "name": "CSS",
                 "color": "#663399"
-              }
-            },
-            {
-              "size": 61866,
-              "node": {
-                "name": "JavaScript",
-                "color": "#f1e05a"
               }
             },
             {
@@ -161,7 +161,7 @@
               }
             },
             {
-              "size": 9537,
+              "size": 12316,
               "node": {
                 "name": "CSS",
                 "color": "#663399"
@@ -321,7 +321,7 @@
   },
   "contributionsCollection": {
     "contributionCalendar": {
-      "totalContributions": 293,
+      "totalContributions": 298,
       "weeks": [
         {
           "contributionDays": [
@@ -2380,6 +2380,11 @@
             },
             {
               "date": "2026-11-20",
+              "contributionCount": 5,
+              "color": "#9be9a8"
+            },
+            {
+              "date": "2026-11-21",
               "contributionCount": 0,
               "color": "#ebedf0"
             }
